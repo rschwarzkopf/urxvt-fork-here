@@ -1,6 +1,8 @@
+This extension adds a small handler to fork off a new urxvt window at the your working directory.
+
 To install:
 
 * copy `fork-here' anywhere to your liking
 * if necessary, add that path to `URxvt.perl-lib'
 * add `fork-here' to `URxvt.perl-ext'
-* bind something to `perl:fork-here:fork-at-cwd'
+* bind something toi `perl:fork-here:fork-at-cwd'
